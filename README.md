@@ -1,6 +1,8 @@
 # Conversor-Challange
 Este proyecto de conversor forma parte de uno de los retos del programa ONE Next Education, en el cula se debe de desarrollar un conversor de temperaturas y otro que realice una conversión desde la moneda local del alumno hacia las monedas solicitadas.
 
+![Conversor](https://github.com/ddvargasp/Conversor-Challange/assets/109007237/77364b4b-6aab-4820-9085-48106732f69c)
+
 Conversiones disponibles:
 
 - Temperatura
